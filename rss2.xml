@@ -8,8 +8,35 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>It&#39;s about damn time.</description>
-    <pubDate>Sat, 14 May 2016 15:27:46 GMT</pubDate>
+    <pubDate>Sat, 14 May 2016 17:44:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>开门大吉</title>
+      <link>http://yoursite.com/2016/05/15/%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89/</link>
+      <guid>http://yoursite.com/2016/05/15/%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89/</guid>
+      <pubDate>Sat, 14 May 2016 17:37:56 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;类似于开门大吉&quot;&gt;&lt;a href=&quot;#类似于开门大吉&quot; class=&quot;headerlink&quot; title=&quot;类似于开门大吉&quot;&gt;&lt;/a&gt;类似于开门大吉&lt;/h2&gt;&lt;h3 id=&quot;开门&quot;&gt;&lt;a href=&quot;#开门&quot; class=&quot;headerlink&quot; title=&quot;开门&quot;&gt;&lt;/a&gt;开门&lt;/h3&gt;&lt;p&gt;好多店面开门都要放个鞭炮、拜个神什么的来个开门大吉的仪式，盼望着以后财运亨通。我琢磨着这个博客是不是也应该来个开博大吉，类似于这一篇文章。&lt;br&gt;
+      
+      </description>
+      
+      <content:encoded>&lt;h2 id=&quot;类似于开门大吉&quot;&gt;&lt;a href=&quot;#类似于开门大吉&quot; class=&quot;headerlink&quot; title=&quot;类似于开门大吉&quot;&gt;&lt;/a&gt;类似于开门大吉&lt;/h2&gt;&lt;h3 id=&quot;开门&quot;&gt;&lt;a href=&quot;#开门&quot; class=&quot;headerlink&quot; title=&quot;开门&quot;&gt;&lt;/a&gt;开门&lt;/h3&gt;&lt;p&gt;好多店面开门都要放个鞭炮、拜个神什么的来个开门大吉的仪式，盼望着以后财运亨通。我琢磨着这个博客是不是也应该来个开博大吉，类似于这一篇文章。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;以前&quot;&gt;&lt;a href=&quot;#以前&quot; class=&quot;headerlink&quot; title=&quot;以前&quot;&gt;&lt;/a&gt;以前&lt;/h3&gt;&lt;p&gt;其实写博客这种事情我是直是一个热衷者，但是性格使然每一个站点都不得善终 。一开始上大学的时候，在百度博客写东西，后来百度改的乱七八糟之后开始自己建WORDPRESS，主机和域名换过的次数都记不清了。最后发现自己真正写东西的时间都没有折腾主机、域名以及主题的时间多。可能一年下来了，博客还只是个位数。最后域名和主机纷纷到期，我连备份的心都没有。&lt;/p&gt;
+&lt;h3 id=&quot;现在&quot;&gt;&lt;a href=&quot;#现在&quot; class=&quot;headerlink&quot; title=&quot;现在&quot;&gt;&lt;/a&gt;现在&lt;/h3&gt;&lt;p&gt;github＋coding＋hexo＋next。github和coding相当于给我提供了免费的主机，我就没必要每年都要纠结去换哪家主机商了，coding我不知道，github至少不会倒闭吧，干出闹眼子的事情的几率也极低；hexo直接生成静态，直接保证了访问速度，最关键的还是我把数据保存在本地，以后想拿出来看看，也不必担心环境是否还能正常工作，直接文本打开即可；有人会说next这种烂大街的主题都已经不屑于拿来用了，但是这个主题的确很对胃口，而且，我已经在主题上花了足够的钱和时间了，不想让自己走上以前比起内容更关注界面的老路。建好站，连域名都省了，以后不管我每月或者每年能写几篇，至少我想起来了就能继续写，想想也挺好的。其实为了建这个站和搞这个主题，也没少花时间，就是想把每一步都做好，好无奈。&lt;/p&gt;
+&lt;h3 id=&quot;关于&quot;&gt;&lt;a href=&quot;#关于&quot; class=&quot;headerlink&quot; title=&quot;关于&quot;&gt;&lt;/a&gt;关于&lt;/h3&gt;&lt;p&gt;关于这个博客的内容我是这么打算的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;生活的牢骚&lt;/li&gt;
+&lt;li&gt;开发的备忘&lt;/li&gt;
+&lt;li&gt;技术成果的分享&lt;/li&gt;
+&lt;li&gt;SS服务的提供&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;我想&quot;&gt;&lt;a href=&quot;#我想&quot; class=&quot;headerlink&quot; title=&quot;我想&quot;&gt;&lt;/a&gt;我想&lt;/h3&gt;&lt;p&gt;我想，借此能分享点东西吧。&lt;/p&gt;
+</content:encoded>
+      
+      <comments>http://yoursite.com/2016/05/15/%E5%BC%80%E9%97%A8%E5%A4%A7%E5%90%89/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Hello World</title>
